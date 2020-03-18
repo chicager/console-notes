@@ -1,7 +1,7 @@
 # console-notes
 Console Notes app made with node.js
 
-For getting help type: node app.js --help
+For getting help type: node app.js --help <br/>
 For getting current version type: node app.js --version
 
 How to work with the app:
