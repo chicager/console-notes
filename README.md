@@ -1,5 +1,5 @@
 # console-notes
-Console Notes app made with node.js
+<h3>Console Notes app made with node.js</h3>
 
 For getting help type: node app.js --help <br/>
 For getting current version type: node app.js --version <br/>
